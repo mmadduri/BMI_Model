@@ -1,0 +1,11 @@
+=========================================
+EXPERIMENT DETAILS
+=========================================
+Adaptive Decoder = True
+Adaptive Brain = True
+Total Number of Trials = 200
+Total Number of Sessions = 10
+Brain Learning Rate = 0.00013894954943731373
+Decoder (K) Learning Rate = 0.00031622776601683794
+Decoder (A) Learning Rate = 0.00031622776601683794
+=========================================
