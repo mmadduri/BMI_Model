@@ -1,4 +1,8 @@
 #gitignore
 
 /data
+data
+*.npy
+*.npz
+
 .ipynb_checkpoints
