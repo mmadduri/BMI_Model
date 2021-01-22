@@ -1,5 +1,10 @@
 MODEL README
 
+2020_12_20
+MathModels/BMIModel_MathModel_1D_NER.ipynb
+- bug in the way that the perturbation was added and normalized to the brain parameters
+- bug fixed to get simulations for the IEEE NER paper
+
 2020_09_27
 MathModels/BMIModel_MathModel_nD
 --> Summer 2020
